@@ -45,6 +45,7 @@
     "react-notion-x": "6.16.0",
     "react-share": "^4.4.1",
     "react-tweet-embed": "~2.0.0"
+    "hexo-bilibili-bangumi": "~1.10.8"
   },
   "devDependencies": {
     "@types/react": "18.3.10",
